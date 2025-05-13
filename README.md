@@ -23,4 +23,4 @@ Located in: src/com/networkmesh/messenger/
 - Receive a welcome message and basic usage instructions.
 - Start chatting with other connected clients in real time.
 
-3. Exiting the ChatClients can type /exit to leave the chat. A confirmation prompt will appear before the client is disconnected.
+3. Exiting the ChatClients can type /exit to leave the chat.

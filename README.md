@@ -11,12 +11,12 @@ It’s a great project for learning the functionality of client-server communica
 ### 📁 Project Structure
 network-mesh-messenger/
 ├── src/
-│   └── com/
-│       └── networkmesh/
-│           └── messenger/
-│               ├── NodeHost.java       # Server logic
-│               ├── NodeHandler.java    # Handles each client on the server
-│               └── ClientNode.java     # Client interface
+│ └── com/
+│ └── networkmesh/
+│ └── messenger/
+│ ├── NodeHost.java # Server logic
+│ ├── NodeHandler.java # Handles each client on the server
+│ └── ClientNode.java # Client interface
 
 ### How to Use
 

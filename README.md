@@ -3,7 +3,7 @@
 NetworkMesh Messenger is a terminal-based chat application written in Java.
 It’s a great project for learning the functionality of client-server communication, socket programming, and multithreading.
 
-###This Program Demonstrates
+### This Program Demonstrates
 - How a server accepts multiple client connections
 - How to use threads to handle real-time communication
 - How clients can send messages to each other through the server

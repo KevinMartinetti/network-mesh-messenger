@@ -9,14 +9,10 @@ It’s a great project for learning the functionality of client-server communica
 - How clients can send messages to each other through the server
 
 ### 📁 Project Structure
-network-mesh-messenger/
-└── src/
-    └── com/
-        └── networkmesh/
-            └── messenger/
-                ├── NodeHost.java       # Server logic
-                ├── NodeHandler.java    # Handles each client on the server
-                └── ClientNode.java     # Client interface
+Located in: src/com/networkmesh/messenger/
+- NodeHost.java – Server logic
+- NodeHandler.java – Handles each client on the server
+- ClientNode.java – Client interface – Server logic
 
 ### How to Use
 

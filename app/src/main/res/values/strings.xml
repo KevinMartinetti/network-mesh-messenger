@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeshChat</string>
+    
+    <!-- Main screen -->
+    <string name="connect_to_network">Connect to Network</string>
+    <string name="create_network">Create Network</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_server_address">Enter server address</string>
+    <string name="enter_port">Enter port</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    
+    <!-- Chat screen -->
+    <string name="type_message">Type a message...</string>
+    <string name="send">Send</string>
+    <string name="online_users">Online Users</string>
+    <string name="file_attachment">File Attachment</string>
+    <string name="image_attachment">Image Attachment</string>
+    
+    <!-- Status messages -->
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="user_joined">%s joined the chat</string>
+    <string name="user_left">%s left the chat</string>
+    
+    <!-- Errors -->
+    <string name="error_invalid_address">Invalid server address</string>
+    <string name="error_invalid_port">Invalid port number</string>
+    <string name="error_empty_username">Username cannot be empty</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_encryption">Encryption error</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">MeshChat Service</string>
+    <string name="notification_channel_description">Background service for mesh networking</string>
+    <string name="notification_title">MeshChat is running</string>
+    <string name="notification_text">Maintaining mesh connections</string>
+    
+    <!-- Permissions -->
+    <string name="permission_storage_rationale">Storage permission is needed to send files</string>
+    <string name="permission_network_rationale">Network permission is needed for mesh connectivity</string>
+</resources>
